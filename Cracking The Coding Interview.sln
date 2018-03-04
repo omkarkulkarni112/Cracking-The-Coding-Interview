@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.1 Is Unique", "1.1 Is Uni
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.2 Check Permutation", "1.2 Check Permutation\1.2 Check Permutation.csproj", "{79D30359-3D36-4624-B3A2-19E4B530BD66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.3 URLify", "1.3 URLify\1.3 URLify.csproj", "{0FA1898B-360D-49DD-9FF7-D4CC45D16EE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{79D30359-3D36-4624-B3A2-19E4B530BD66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79D30359-3D36-4624-B3A2-19E4B530BD66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79D30359-3D36-4624-B3A2-19E4B530BD66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FA1898B-360D-49DD-9FF7-D4CC45D16EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FA1898B-360D-49DD-9FF7-D4CC45D16EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FA1898B-360D-49DD-9FF7-D4CC45D16EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FA1898B-360D-49DD-9FF7-D4CC45D16EE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,5 +36,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{E3B68A30-0241-429B-962C-9A8DA5BFF231} = {21D8BE93-AEC9-4BC2-9A91-63B8B40EE29A}
 		{79D30359-3D36-4624-B3A2-19E4B530BD66} = {21D8BE93-AEC9-4BC2-9A91-63B8B40EE29A}
+		{0FA1898B-360D-49DD-9FF7-D4CC45D16EE4} = {21D8BE93-AEC9-4BC2-9A91-63B8B40EE29A}
 	EndGlobalSection
 EndGlobal
