@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.2 Check Permutation", "1.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.3 URLify", "1.3 URLify\1.3 URLify.csproj", "{0FA1898B-360D-49DD-9FF7-D4CC45D16EE4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.4 Palindrome Permutation", "1.4 Palindrome Permutation\1.4 Palindrome Permutation.csproj", "{B5EDB6E8-A1F5-49F8-80B7-18C55D5F68B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{0FA1898B-360D-49DD-9FF7-D4CC45D16EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FA1898B-360D-49DD-9FF7-D4CC45D16EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FA1898B-360D-49DD-9FF7-D4CC45D16EE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5EDB6E8-A1F5-49F8-80B7-18C55D5F68B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5EDB6E8-A1F5-49F8-80B7-18C55D5F68B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5EDB6E8-A1F5-49F8-80B7-18C55D5F68B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5EDB6E8-A1F5-49F8-80B7-18C55D5F68B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -37,5 +43,6 @@ Global
 		{E3B68A30-0241-429B-962C-9A8DA5BFF231} = {21D8BE93-AEC9-4BC2-9A91-63B8B40EE29A}
 		{79D30359-3D36-4624-B3A2-19E4B530BD66} = {21D8BE93-AEC9-4BC2-9A91-63B8B40EE29A}
 		{0FA1898B-360D-49DD-9FF7-D4CC45D16EE4} = {21D8BE93-AEC9-4BC2-9A91-63B8B40EE29A}
+		{B5EDB6E8-A1F5-49F8-80B7-18C55D5F68B7} = {21D8BE93-AEC9-4BC2-9A91-63B8B40EE29A}
 	EndGlobalSection
 EndGlobal
