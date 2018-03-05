@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.4 Palindrome Permutation"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.5 One Away", "1.5 One Away\1.5 One Away.csproj", "{0605ED47-9D19-4096-9A4A-41B6D5E767E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.6 String Compression", "1.6 String Compression\1.6 String Compression.csproj", "{34456F3E-DBE3-4D66-874B-B4AB75D6EBF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,10 @@ Global
 		{0605ED47-9D19-4096-9A4A-41B6D5E767E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0605ED47-9D19-4096-9A4A-41B6D5E767E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0605ED47-9D19-4096-9A4A-41B6D5E767E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34456F3E-DBE3-4D66-874B-B4AB75D6EBF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34456F3E-DBE3-4D66-874B-B4AB75D6EBF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34456F3E-DBE3-4D66-874B-B4AB75D6EBF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34456F3E-DBE3-4D66-874B-B4AB75D6EBF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -51,5 +57,6 @@ Global
 		{0FA1898B-360D-49DD-9FF7-D4CC45D16EE4} = {21D8BE93-AEC9-4BC2-9A91-63B8B40EE29A}
 		{B5EDB6E8-A1F5-49F8-80B7-18C55D5F68B7} = {21D8BE93-AEC9-4BC2-9A91-63B8B40EE29A}
 		{0605ED47-9D19-4096-9A4A-41B6D5E767E6} = {21D8BE93-AEC9-4BC2-9A91-63B8B40EE29A}
+		{34456F3E-DBE3-4D66-874B-B4AB75D6EBF3} = {21D8BE93-AEC9-4BC2-9A91-63B8B40EE29A}
 	EndGlobalSection
 EndGlobal
