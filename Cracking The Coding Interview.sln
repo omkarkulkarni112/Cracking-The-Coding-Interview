@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.6 String Compression", "1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.7 Rotate Matrix", "1.7 Rotate Matrix\1.7 Rotate Matrix.csproj", "{3A6C76BB-4EAA-46FD-9D9A-571A7F606BB7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.8 Zero Matrix", "1.8 Zero Matrix\1.8 Zero Matrix.csproj", "{F090CA4B-1117-48A3-84F4-19D30E0C2745}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +55,10 @@ Global
 		{3A6C76BB-4EAA-46FD-9D9A-571A7F606BB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A6C76BB-4EAA-46FD-9D9A-571A7F606BB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A6C76BB-4EAA-46FD-9D9A-571A7F606BB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F090CA4B-1117-48A3-84F4-19D30E0C2745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F090CA4B-1117-48A3-84F4-19D30E0C2745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F090CA4B-1117-48A3-84F4-19D30E0C2745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F090CA4B-1117-48A3-84F4-19D30E0C2745}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -65,5 +71,6 @@ Global
 		{0605ED47-9D19-4096-9A4A-41B6D5E767E6} = {21D8BE93-AEC9-4BC2-9A91-63B8B40EE29A}
 		{34456F3E-DBE3-4D66-874B-B4AB75D6EBF3} = {21D8BE93-AEC9-4BC2-9A91-63B8B40EE29A}
 		{3A6C76BB-4EAA-46FD-9D9A-571A7F606BB7} = {21D8BE93-AEC9-4BC2-9A91-63B8B40EE29A}
+		{F090CA4B-1117-48A3-84F4-19D30E0C2745} = {21D8BE93-AEC9-4BC2-9A91-63B8B40EE29A}
 	EndGlobalSection
 EndGlobal
